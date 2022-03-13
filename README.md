@@ -21,7 +21,7 @@
 ![Img 7](./images/Commit_of_comments.png)
 5. Merged new branch with default and deleted *patch1* from remote and local repository.
 
-## Part II
+## Part III
 1. Created new branch `patch2`.
 2. Installed utility `clang-format` to change code style.
  - Used `clang-format -i --style=Mozilla`.
