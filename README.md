@@ -13,7 +13,7 @@
 
 ## Part II
 1. Created new branch **patch1** using `git branch patch1`.
-2. Get out of `**using namespace** std`.
+2. Get out of `using namespace std`.
 ![Img 5](./images/CorrectHelloWorld.png)
 3. Created *pull request*.
 ![Img 6](./images/Pull_Request.png)
