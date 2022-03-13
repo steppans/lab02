@@ -1,1 +1,1 @@
-# lab02
+# Laboratory work 2
